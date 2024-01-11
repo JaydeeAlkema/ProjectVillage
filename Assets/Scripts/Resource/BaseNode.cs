@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace Assets.Scripts
@@ -18,8 +16,7 @@ namespace Assets.Scripts
 			specialResource = specialResourceConfig.Generate();
 		}
 
-		public Resource Gather() => baseResource;
-		public Resource GatherSpecial() => specialResource;
+		public (Resource baseResource, Resource specialResource) Gather() { return (baseResource, specialResource); }
 	}
 
 	public class Resource

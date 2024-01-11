@@ -14,15 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneDatasByGuid:
     keys:
-    - 
     - 8c9cfa26abfee488c85f1582747f6a02
     values:
-    - goDatasByGlobalId:
-        keys: []
-        values: []
-      goDatasByInstanceId:
-        keys: 
-        values: []
     - goDatasByGlobalId:
         keys:
         - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-519420028-0
@@ -33,7 +26,7 @@ MonoBehaviour:
         - iColor: 0
           icon: DirectionalLight Icon
       goDatasByInstanceId:
-        keys: fca5000006a60000
+        keys: 84f800008ef80000
         values:
         - iColor: 0
           icon: Camera Icon
