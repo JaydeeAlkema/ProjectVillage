@@ -17,6 +17,12 @@ namespace Assets.Scripts.Resource
 		}
 
 		public (Resource baseResource, Resource specialResource) Gather() { return (baseResource, specialResource); }
+
+		private void OnDrawGizmosSelected()
+		{
+			Gizmos.color = Color.red;
+			Gizmos.DrawWireSphere(transform.position, 0.5f);
+		}
 	}
 
 	public class Resource
