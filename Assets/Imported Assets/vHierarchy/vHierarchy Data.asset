@@ -20,15 +20,25 @@ MonoBehaviour:
         keys:
         - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-519420028-0
         - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-619394800-0
+        - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-405314854-0
+        - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-893002888-0
         values:
         - iColor: 0
           icon: Camera Icon
         - iColor: 0
           icon: DirectionalLight Icon
+        - iColor: 8
+          icon: 
+        - iColor: 0
+          icon: StandaloneInputModule Icon
       goDatasByInstanceId:
-        keys: 84f800008ef80000
+        keys: 52ab00005cab00000cf2ffffc2f2ffff
         values:
         - iColor: 0
           icon: Camera Icon
         - iColor: 0
           icon: DirectionalLight Icon
+        - iColor: 8
+          icon: 
+        - iColor: 0
+          icon: StandaloneInputModule Icon
