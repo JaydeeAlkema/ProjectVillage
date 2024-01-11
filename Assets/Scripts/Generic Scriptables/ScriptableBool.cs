@@ -1,14 +1,14 @@
-using NaughtyAttributes;
+﻿using NaughtyAttributes;
 using UnityEngine;
 
-namespace Assets.Scripts.GenericScriptables
+namespace Assets.Scripts.Generic_Scriptables
 {
-	[CreateAssetMenu(fileName = "Scriptable Int", menuName = "ScriptableObjects/Scriptable Int")]
-	public class ScriptableInt : ScriptableObject
+	[CreateAssetMenu(fileName = "Scriptable Bool", menuName = "ScriptableObjects/Scriptable Bool")]
+	public class ScriptableBool : ScriptableObject
 	{
-		public int Value;
+		public bool Value;
 		public bool resetOnDestroy = true;
-		[ShowIf("resetOnDestroy")] public int resetValue = 0;
+		[ShowIf("resetOnDestroy")] public bool resetValue;
 
 		private void OnDestroy()
 		{
