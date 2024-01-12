@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2212170469939799197}
   - component: {fileID: 467484519633764555}
+  - component: {fileID: 8205639740427388125}
   - component: {fileID: 2151998672394717774}
   m_Layer: 0
   m_Name: Player
@@ -48,6 +49,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: {fileID: 11400000, guid: c4d8d33773a78a74586b4391118bd2a8, type: 2}
   rb: {fileID: 2151998672394717774}
+--- !u!114 &8205639740427388125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1229070651551069568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6b912bdf984c14ab22a2c62f1f9074, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactionDamage: {fileID: 11400000, guid: 3081b2915b49a2140976cf42dcba0e9a, type: 2}
+  interactionDistance: {fileID: 11400000, guid: cfb1c689854a5f541b3853c3e6c6a212, type: 2}
+  interactLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!50 &2151998672394717774
 Rigidbody2D:
   serializedVersion: 4
@@ -73,7 +91,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!1 &7573537828846165239
 GameObject:

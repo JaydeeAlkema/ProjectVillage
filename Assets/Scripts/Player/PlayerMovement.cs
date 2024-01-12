@@ -42,7 +42,6 @@ namespace Assets.Scripts.Player
 		private void Move(InputAction.CallbackContext callbackContext)
 		{
 			Vector2 input = callbackContext.ReadValue<Vector2>();
-			Debug.Log(input);
 
 			if (input == Vector2.zero)
 			{
