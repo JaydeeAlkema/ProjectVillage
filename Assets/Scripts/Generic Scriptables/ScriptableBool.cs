@@ -1,7 +1,7 @@
 ﻿using NaughtyAttributes;
 using UnityEngine;
 
-namespace Assets.Scripts.Generic_Scriptables
+namespace Assets.Scripts.GenericScriptables
 {
 	[CreateAssetMenu(fileName = "Scriptable Bool", menuName = "ScriptableObjects/Scriptable Bool")]
 	public class ScriptableBool : ScriptableObject

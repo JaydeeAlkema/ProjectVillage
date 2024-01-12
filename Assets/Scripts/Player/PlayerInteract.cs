@@ -1,5 +1,4 @@
-﻿using Assets.Scripts.Generic_Scriptables;
-using Assets.Scripts.GenericScriptables;
+﻿using Assets.Scripts.GenericScriptables;
 using Assets.Scripts.Interfaces;
 using NaughtyAttributes;
 using UnityEngine;

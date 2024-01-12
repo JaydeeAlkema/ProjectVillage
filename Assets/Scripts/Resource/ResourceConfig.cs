@@ -10,6 +10,8 @@ namespace Assets.Scripts.Resource
 		public int minAmount;
 		public int maxAmount;
 		public float scale;
+		public int worth;
+		public string description;
 
 		public Resource Generate()
 		{
@@ -18,7 +20,9 @@ namespace Assets.Scripts.Resource
 				resourceType = resourceType,
 				amount = Random.Range(minAmount, maxAmount),
 				sprite = sprite,
-				scale = scale
+				scale = scale,
+				worth = worth,
+				description = description
 			};
 		}
 	}

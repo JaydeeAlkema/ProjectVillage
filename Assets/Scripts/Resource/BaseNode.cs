@@ -1,3 +1,4 @@
+using Assets.Scripts.Collectables;
 using Assets.Scripts.Interfaces;
 using NaughtyAttributes;
 using System.Collections.Generic;
@@ -36,10 +37,17 @@ namespace Assets.Scripts.Resource
 			{
 				for (var i = 0; i < resource.amount; i++)
 				{
-					Vector3 dropPosition = transform.position + Random.insideUnitSphere * dropDistance;
 					GameObject drop = new GameObject($"{resource.resourceType}");
+					Vector3 dropPosition = transform.position + Random.insideUnitSphere * dropDistance;
 					drop.transform.position = dropPosition;
 					drop.transform.localScale = resource.scale * Vector3.one;
+
+					Collectable collectable = drop.AddComponent<Collectable>();
+					collectable.itemName = resource.resourceType.ToString();
+					collectable.itemDescription = resource.description;
+					collectable.itemSprite = resource.sprite;
+					collectable.itemWorth = resource.worth;
+
 					SpriteRenderer spriteRenderer = drop.AddComponent<SpriteRenderer>();
 					spriteRenderer.sprite = resource.sprite;
 				}
@@ -62,5 +70,7 @@ namespace Assets.Scripts.Resource
 		public ResourceType resourceType;
 		public int amount;
 		public float scale;
+		public int worth;
+		public string description;
 	}
 }
