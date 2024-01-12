@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace Assets.Scripts.Resource
@@ -5,23 +6,29 @@ namespace Assets.Scripts.Resource
 	public enum ResourceType { Empty, Stone, Coal, Iron, Copper, Silver, Gold, Oak, Pine, Birch }
 	public class BaseNode : MonoBehaviour
 	{
-		[SerializeField] ResourceConfig baseResourceConfig;
-		[SerializeField] ResourceConfig specialResourceConfig;
-		Resource baseResource;
-		Resource specialResource;
+		[SerializeField] List<ResourceConfig> baseResourceConfigs;
+		[SerializeField] List<ResourceConfig> specialResourceConfigs;
+		List<Resource> baseResources;
+		List<Resource> specialResources;
 
 		protected void Awake()
 		{
-			baseResource = baseResourceConfig.Generate();
-			specialResource = specialResourceConfig.Generate();
+			foreach (var config in baseResourceConfigs)
+			{
+				baseResources.Add(config.Generate());
+			}
+			foreach (var config in specialResourceConfigs)
+			{
+				specialResources.Add(config.Generate());
+			}
+
 		}
+		public (List<Resource> baseResources, List<Resource> specialResources) Gather() => (baseResources, specialResources);
 
-		public (Resource baseResource, Resource specialResource) Gather() { return (baseResource, specialResource); }
-	}
-
-	public class Resource
-	{
-		public ResourceType resourceType;
-		public int amount;
+		public class Resource
+		{
+			public ResourceType resourceType;
+			public int amount;
+		}
 	}
 }
