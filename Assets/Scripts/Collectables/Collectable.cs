@@ -6,8 +6,7 @@ namespace Assets.Scripts.Collectables
 	{
 		public string itemName = "new Item";
 		public string itemDescription = "Lorem Ipsum";
-		public Sprite itemSprite = null;
-		public int itemWorth = 1;
+		public int itemWorth = 100;
 
 		private BoxCollider2D boxCollider;
 

@@ -5,11 +5,10 @@ namespace Assets.Scripts.Resource
 	[CreateAssetMenu(menuName = "ScriptableObjects/Resource Config", fileName = "New Resource Config")]
 	public class ResourceConfig : ScriptableObject
 	{
-		public Sprite sprite;
+		public GameObject prefab;
 		public ResourceType resourceType;
 		public int minAmount;
 		public int maxAmount;
-		public float scale;
 		public int worth;
 		public string description;
 
@@ -17,10 +16,9 @@ namespace Assets.Scripts.Resource
 		{
 			return new Resource()
 			{
+				prefab = prefab,
 				resourceType = resourceType,
 				amount = Random.Range(minAmount, maxAmount),
-				sprite = sprite,
-				scale = scale,
 				worth = worth,
 				description = description
 			};

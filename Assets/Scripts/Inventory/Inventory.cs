@@ -7,43 +7,55 @@ namespace Assets.Scripts.Inventory
 {
 	public class Inventory : MonoBehaviour
 	{
-		[SerializeField] private Dictionary<Collectable, int> items = new Dictionary<Collectable, int>();
+		[SerializeField] private Dictionary<Collectable, int> inventory = new Dictionary<Collectable, int>();
 
 		public void AddItem(Collectable item)
 		{
-			if (items.ContainsKey(item)) items[item]++;
-			else items.Add(item, 1);
+			if (inventory.Count == 0) inventory.Add(item, 1);
+			foreach (KeyValuePair<Collectable, int> inventoryItem in inventory)
+			{
+				if (inventoryItem.Key.itemName == item.itemName)
+				{
+					inventory[inventoryItem.Key]++;
+					return;
+				}
+				else
+				{
+					inventory.Add(item, 1);
+					return;
+				}
+			}
 		}
 
 		public void RemoveItem(Collectable item)
 		{
-			if (items.ContainsKey(item))
+			if (inventory.ContainsKey(item))
 			{
-				items[item]--;
-				if (items[item] <= 0) items.Remove(item);
+				inventory[item]--;
+				if (inventory[item] <= 0) inventory.Remove(item);
 			}
 		}
 
 		public Dictionary<Collectable, int> GetItems()
 		{
-			return items;
+			return inventory;
 		}
 
 		public void Clear()
 		{
-			items.Clear();
+			inventory.Clear();
 		}
 
 		public int GetItemCount(Collectable item)
 		{
-			if (items.ContainsKey(item)) return items[item];
+			if (inventory.ContainsKey(item)) return inventory[item];
 			else return 0;
 		}
 
 		public int GetTotalItemCount()
 		{
 			int total = 0;
-			foreach (KeyValuePair<Collectable, int> item in items)
+			foreach (KeyValuePair<Collectable, int> item in inventory)
 			{
 				total += item.Value;
 			}
@@ -53,7 +65,7 @@ namespace Assets.Scripts.Inventory
 		public int GetTotalItemWorth()
 		{
 			int total = 0;
-			foreach (KeyValuePair<Collectable, int> item in items)
+			foreach (KeyValuePair<Collectable, int> item in inventory)
 			{
 				total += item.Key.itemWorth * item.Value;
 			}
@@ -63,7 +75,7 @@ namespace Assets.Scripts.Inventory
 		[Button]
 		public void PrintItems()
 		{
-			foreach (KeyValuePair<Collectable, int> item in items)
+			foreach (KeyValuePair<Collectable, int> item in inventory)
 			{
 				Debug.Log($"{item.Key.itemName} x{item.Value}");
 			}
