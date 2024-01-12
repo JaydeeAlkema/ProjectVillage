@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a9752b0c8e144801967e6897679604b, type: 3}
-  m_Name: vHierarchy Data
+  m_Script: {fileID: 11500000, guid: 9166e180710c1694da59c38e7d5af80f, type: 3}
+  m_Name: Coal
   m_EditorClassIdentifier: 
-  sceneDatasByGuid:
-    keys: []
-    values: []
+  resourceType: 3
+  minAmount: 2
+  maxAmount: 8
