@@ -1,5 +1,5 @@
-using Assets.Scripts.Collectables;
 using Assets.Scripts.Interfaces;
+using Assets.Scripts.Inventory;
 using NaughtyAttributes;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,7 +40,7 @@ namespace Assets.Scripts.Resource
 				{
 					Vector2 randomPosition = Random.insideUnitCircle * dropDistance;
 					GameObject GO = Instantiate(resource.prefab, transform.position + (Vector3)randomPosition, Quaternion.identity);
-					GO.GetComponent<Collectable>().itemWorth = resource.worth;
+					GO.GetComponent<Item>().itemWorth = resource.worth;
 				}
 			}
 		}

@@ -1,4 +1,3 @@
-using Assets.Scripts.Collectables;
 using NaughtyAttributes;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,27 +6,23 @@ namespace Assets.Scripts.Inventory
 {
 	public class Inventory : MonoBehaviour
 	{
-		[SerializeField] private Dictionary<Collectable, int> inventory = new Dictionary<Collectable, int>();
+		[SerializeField] private Dictionary<Item, int> inventory = new Dictionary<Item, int>();
 
-		public void AddItem(Collectable item)
+		public void AddItem(Item item)
 		{
-			if (inventory.Count == 0) inventory.Add(item, 1);
-			foreach (KeyValuePair<Collectable, int> inventoryItem in inventory)
+			foreach (KeyValuePair<Item, int> inventoryItem in inventory)
 			{
-				if (inventoryItem.Key.itemName == item.itemName)
+				if (inventoryItem.Key.itemName.ToLower().Contains(item.itemName.ToLower()))
 				{
 					inventory[inventoryItem.Key]++;
 					return;
 				}
-				else
-				{
-					inventory.Add(item, 1);
-					return;
-				}
 			}
+			inventory.Add(item, 1);
+			return;
 		}
 
-		public void RemoveItem(Collectable item)
+		public void RemoveItem(Item item)
 		{
 			if (inventory.ContainsKey(item))
 			{
@@ -36,7 +31,7 @@ namespace Assets.Scripts.Inventory
 			}
 		}
 
-		public Dictionary<Collectable, int> GetItems()
+		public Dictionary<Item, int> GetItems()
 		{
 			return inventory;
 		}
@@ -46,7 +41,7 @@ namespace Assets.Scripts.Inventory
 			inventory.Clear();
 		}
 
-		public int GetItemCount(Collectable item)
+		public int GetItemCount(Item item)
 		{
 			if (inventory.ContainsKey(item)) return inventory[item];
 			else return 0;
@@ -55,7 +50,7 @@ namespace Assets.Scripts.Inventory
 		public int GetTotalItemCount()
 		{
 			int total = 0;
-			foreach (KeyValuePair<Collectable, int> item in inventory)
+			foreach (KeyValuePair<Item, int> item in inventory)
 			{
 				total += item.Value;
 			}
@@ -65,7 +60,7 @@ namespace Assets.Scripts.Inventory
 		public int GetTotalItemWorth()
 		{
 			int total = 0;
-			foreach (KeyValuePair<Collectable, int> item in inventory)
+			foreach (KeyValuePair<Item, int> item in inventory)
 			{
 				total += item.Key.itemWorth * item.Value;
 			}
@@ -75,7 +70,7 @@ namespace Assets.Scripts.Inventory
 		[Button]
 		public void PrintItems()
 		{
-			foreach (KeyValuePair<Collectable, int> item in inventory)
+			foreach (KeyValuePair<Item, int> item in inventory)
 			{
 				Debug.Log($"{item.Key.itemName} x{item.Value}");
 			}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8328318103684778115}
   - component: {fileID: 1786001608732223257}
   m_Layer: 0
-  m_Name: Collectable - Stone
+  m_Name: Item - Oak
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -46,9 +46,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6778fe354b4fd846a14637ed7f67555, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: Stone
-  itemDescription: Basic piece of raw stone.
-  itemSprite: {fileID: 0}
+  itemName: Oak
+  itemDescription: Basic piece of raw Oak.
   itemWorth: 1
 --- !u!61 &1786001608732223257
 BoxCollider2D:
@@ -171,8 +170,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Sprite: {fileID: 3625043607559282579, guid: 0d267bc78a0864eb48358689b29ed20a, type: 3}
+  m_Color: {r: 0.6037736, g: 0.3467347, b: 0.15663938, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

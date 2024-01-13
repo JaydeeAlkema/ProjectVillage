@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace Assets.Scripts.Collectables
+namespace Assets.Scripts.Inventory
 {
-	public class Collectable : MonoBehaviour
+	public class Item : MonoBehaviour
 	{
 		public string itemName = "new Item";
 		public string itemDescription = "Lorem Ipsum";

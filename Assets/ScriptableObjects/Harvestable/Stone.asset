@@ -16,6 +16,5 @@ MonoBehaviour:
   resourceType: 1
   minAmount: 5
   maxAmount: 15
-  scale: 0.5
   worth: 5
   description: A basic piece of stone.
