@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9166e180710c1694da59c38e7d5af80f, type: 3}
   m_Name: Iron
   m_EditorClassIdentifier: 
+  prefab: {fileID: 2854059980396583989, guid: f7da92e6284215e46bb3fb7e85cb83d7, type: 3}
   resourceType: 3
   minAmount: 3
   maxAmount: 10
+  worth: 0
+  description: 

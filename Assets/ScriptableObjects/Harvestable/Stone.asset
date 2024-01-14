@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9166e180710c1694da59c38e7d5af80f, type: 3}
   m_Name: Stone
   m_EditorClassIdentifier: 
-  sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  prefab: {fileID: 2854059980396583989, guid: 05610967be5fa5b42ad596bdc4de5225, type: 3}
   resourceType: 1
   minAmount: 5
   maxAmount: 15
-  scale: 0.5
+  worth: 5
+  description: A basic piece of stone.

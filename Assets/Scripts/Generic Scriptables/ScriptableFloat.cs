@@ -1,7 +1,7 @@
 ﻿using NaughtyAttributes;
 using UnityEngine;
 
-namespace Assets.Scripts.Generic_Scriptables
+namespace Assets.Scripts.GenericScriptables
 {
 	[CreateAssetMenu(fileName = "Scriptable Float", menuName = "ScriptableObjects/Scriptable Float")]
 	public class ScriptableFloat : ScriptableObject

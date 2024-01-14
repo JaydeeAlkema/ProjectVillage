@@ -1,7 +1,9 @@
 using Assets.Scripts.Interfaces;
+using Assets.Scripts.Inventory;
 using NaughtyAttributes;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEditor;
 using UnityEngine;
 
 namespace Assets.Scripts.Resource
@@ -36,12 +38,9 @@ namespace Assets.Scripts.Resource
 			{
 				for (var i = 0; i < resource.amount; i++)
 				{
-					Vector3 dropPosition = transform.position + Random.insideUnitSphere * dropDistance;
-					GameObject drop = new GameObject($"{resource.resourceType}");
-					drop.transform.position = dropPosition;
-					drop.transform.localScale = resource.scale * Vector3.one;
-					SpriteRenderer spriteRenderer = drop.AddComponent<SpriteRenderer>();
-					spriteRenderer.sprite = resource.sprite;
+					Vector2 randomPosition = Random.insideUnitCircle * dropDistance;
+					GameObject GO = Instantiate(resource.prefab, transform.position + (Vector3)randomPosition, Quaternion.identity);
+					GO.GetComponent<Item>().itemWorth = resource.worth;
 				}
 			}
 		}
@@ -58,9 +57,10 @@ namespace Assets.Scripts.Resource
 	}
 	public class Resource
 	{
-		public Sprite sprite;
+		public GameObject prefab;
 		public ResourceType resourceType;
 		public int amount;
-		public float scale;
+		public int worth;
+		public string description;
 	}
 }
