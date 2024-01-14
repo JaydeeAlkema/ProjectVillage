@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 594671b9558f6184989d733f43f5c119
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7695098410396909045
+    second: tileB_tent_0
+  - first:
+      213: -2500425893359890412
+    second: tileB_tent_1
+  - first:
+      213: -2386826965374999175
+    second: tileB_tent_2
+  - first:
+      213: -232685774586151270
+    second: tileB_tent_3
+  - first:
+      213: -226617006613186695
+    second: tileB_tent_4
+  - first:
+      213: 2621406418224344436
+    second: tileB_tent_5
+  - first:
+      213: 642970006881507674
+    second: tileB_tent_6
+  - first:
+      213: 1792699256272154947
+    second: tileB_tent_7
+  - first:
+      213: -6253715759328611682
+    second: tileB_tent_8
+  - first:
+      213: 3749425651263547824
+    second: tileB_tent_9
+  - first:
+      213: -1616609228020200563
+    second: tileB_tent_10
+  - first:
+      213: 2986084055837408712
+    second: tileB_tent_11
+  - first:
+      213: 948977766389454602
+    second: tileB_tent_12
+  - first:
+      213: 4758214401011507138
+    second: tileB_tent_13
+  - first:
+      213: -8876407622369533027
+    second: tileB_tent_14
+  - first:
+      213: 3030925341964319206
+    second: tileB_tent_15
+  - first:
+      213: 3301344242834536564
+    second: tileB_tent_16
+  - first:
+      213: -7668514484660220157
+    second: tileB_tent_17
+  - first:
+      213: -354424572195576199
+    second: tileB_tent_18
+  - first:
+      213: 8769506436889836546
+    second: tileB_tent_19
+  - first:
+      213: 7102115327732846481
+    second: tileB_tent_20
+  - first:
+      213: -4134758314079866075
+    second: tileB_tent_21
+  - first:
+      213: 7286104031142343274
+    second: tileB_tent_22
+  - first:
+      213: 897221884573765825
+    second: tileB_tent_23
+  - first:
+      213: 8404565109006569399
+    second: tileB_tent_24
+  - first:
+      213: -6204430949392276781
+    second: tileB_tent_25
+  - first:
+      213: -112596904627155197
+    second: tileB_tent_26
+  - first:
+      213: -3185845106010253842
+    second: tileB_tent_27
+  - first:
+      213: 4466836942795842859
+    second: tileB_tent_28
+  - first:
+      213: 4505734472727308322
+    second: tileB_tent_29
+  - first:
+      213: -3277522370776252327
+    second: tileB_tent_30
+  - first:
+      213: -3916844873343594366
+    second: tileB_tent_31
+  - first:
+      213: 5948317373282519496
+    second: tileB_tent_32
+  - first:
+      213: -8279805027193298384
+    second: tileB_tent_33
+  - first:
+      213: 9149428645635730324
+    second: tileB_tent_34
+  - first:
+      213: 636174644606737804
+    second: tileB_tent_35
+  - first:
+      213: -8718490945515284222
+    second: tileB_tent_36
+  - first:
+      213: -3444298276274985124
+    second: tileB_tent_37
+  - first:
+      213: -601862844675493117
+    second: tileB_tent_38
+  - first:
+      213: -9012808180830229954
+    second: tileB_tent_39
+  - first:
+      213: 4160887289765403317
+    second: tileB_tent_40
+  - first:
+      213: -7833190029266618488
+    second: tileB_tent_41
+  - first:
+      213: -1292634273317116607
+    second: tileB_tent_42
+  - first:
+      213: -354900148227077572
+    second: tileB_tent_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileB_tent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 672
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd716fdb3b7aca60800000000000000
+      internalID: 7695098410396909045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 264
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4105817d5e3bc4dd0800000000000000
+      internalID: -2500425893359890412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 294
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975ef7c558940eed0800000000000000
+      internalID: -2386826965374999175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 294
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7185558555ccf0800000000000000
+      internalID: -232685774586151270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 291
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97732cc7805eadcf0800000000000000
+      internalID: -226617006613186695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 294
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47de032af3b116420800000000000000
+      internalID: 2621406418224344436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 300
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59176d80d94ce800800000000000000
+      internalID: 642970006881507674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 246
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3417537b972f0e810800000000000000
+      internalID: 1792699256272154947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 246
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92b4f686a65639a0800000000000000
+      internalID: -6253715759328611682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 246
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b92d47b3c2a80430800000000000000
+      internalID: 3749425651263547824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 246
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bcc37e876a099e0800000000000000
+      internalID: -1616609228020200563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 243
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd75a9b0a3b07920800000000000000
+      internalID: 2986084055837408712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07136920427b2d00800000000000000
+      internalID: 948977766389454602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 201
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf5071a9c2980240800000000000000
+      internalID: 4758214401011507138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 219
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d932813fb4aa0d480800000000000000
+      internalID: -8876407622369533027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 210
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9338c3a82001a20800000000000000
+      internalID: 3030925341964319206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478fe6bf81bb0dd20800000000000000
+      internalID: 3301344242834536564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 201
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc3eaa4b6f39590800000000000000
+      internalID: -7668514484660220157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 198
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976ec9abab4d41bf0800000000000000
+      internalID: -354424572195576199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 192
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cf15a34ab83b970800000000000000
+      internalID: 8769506436889836546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f8f5f0348cf8260800000000000000
+      internalID: 7102115327732846481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5233d2168336e96c0800000000000000
+      internalID: -4134758314079866075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62f7cc43017d1560800000000000000
+      internalID: 7286104031142343274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 147
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0d9b2ec82937c00800000000000000
+      internalID: 897221884573765825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 150
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf8af5ff6303a470800000000000000
+      internalID: 8404565109006569399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2a80c8cee65e9a0800000000000000
+      internalID: -6204430949392276781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 150
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc3e836b9ff6ef0800000000000000
+      internalID: -112596904627155197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 156
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee597d261ca99c3d0800000000000000
+      internalID: -3185845106010253842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 153
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2520fc78846dfd30800000000000000
+      internalID: 4466836942795842859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 240
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228a42b61a5978e30800000000000000
+      internalID: 4505734472727308322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 99
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9504c72d4c6e382d0800000000000000
+      internalID: -3277522370776252327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 96
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2809b0c075294a9c0800000000000000
+      internalID: -3916844873343594366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c90acda22bac8250800000000000000
+      internalID: 5948317373282519496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03266a03239381d80800000000000000
+      internalID: -8279805027193298384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 60
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba6e0a0ec49fe70800000000000000
+      internalID: 9149428645635730324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_35
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 54
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d15eaf77524d800800000000000000
+      internalID: 636174644606737804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2091a177da2b10780800000000000000
+      internalID: -8718490945515284222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57a32667f46330d0800000000000000
+      internalID: -3444298276274985124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3037c9b7ee0c5a7f0800000000000000
+      internalID: -601862844675493117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a21e026b21ce280800000000000000
+      internalID: -9012808180830229954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 6
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba97e8d1f07eb930800000000000000
+      internalID: 4160887289765403317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877e6f9b2bea4390800000000000000
+      internalID: -7833190029266618488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14520722af3af0ee0800000000000000
+      internalID: -1292634273317116607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_tent_43
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a013e0234231bf0800000000000000
+      internalID: -354900148227077572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 326da4a5ca7cf7b42ad7d71850ed3a4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tileB_tent_0: 7695098410396909045
+      tileB_tent_1: -2500425893359890412
+      tileB_tent_10: -1616609228020200563
+      tileB_tent_11: 2986084055837408712
+      tileB_tent_12: 948977766389454602
+      tileB_tent_13: 4758214401011507138
+      tileB_tent_14: -8876407622369533027
+      tileB_tent_15: 3030925341964319206
+      tileB_tent_16: 3301344242834536564
+      tileB_tent_17: -7668514484660220157
+      tileB_tent_18: -354424572195576199
+      tileB_tent_19: 8769506436889836546
+      tileB_tent_2: -2386826965374999175
+      tileB_tent_20: 7102115327732846481
+      tileB_tent_21: -4134758314079866075
+      tileB_tent_22: 7286104031142343274
+      tileB_tent_23: 897221884573765825
+      tileB_tent_24: 8404565109006569399
+      tileB_tent_25: -6204430949392276781
+      tileB_tent_26: -112596904627155197
+      tileB_tent_27: -3185845106010253842
+      tileB_tent_28: 4466836942795842859
+      tileB_tent_29: 4505734472727308322
+      tileB_tent_3: -232685774586151270
+      tileB_tent_30: -3277522370776252327
+      tileB_tent_31: -3916844873343594366
+      tileB_tent_32: 5948317373282519496
+      tileB_tent_33: -8279805027193298384
+      tileB_tent_34: 9149428645635730324
+      tileB_tent_35: 636174644606737804
+      tileB_tent_36: -8718490945515284222
+      tileB_tent_37: -3444298276274985124
+      tileB_tent_38: -601862844675493117
+      tileB_tent_39: -9012808180830229954
+      tileB_tent_4: -226617006613186695
+      tileB_tent_40: 4160887289765403317
+      tileB_tent_41: -7833190029266618488
+      tileB_tent_42: -1292634273317116607
+      tileB_tent_43: -354900148227077572
+      tileB_tent_5: 2621406418224344436
+      tileB_tent_6: 642970006881507674
+      tileB_tent_7: 1792699256272154947
+      tileB_tent_8: -6253715759328611682
+      tileB_tent_9: 3749425651263547824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

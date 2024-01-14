@@ -1,0 +1,3877 @@
+fileFormatVersion: 2
+guid: 4047fd54cd7eed0489410588d7bda30b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1442068900958703718
+    second: tileB_farmA_0
+  - first:
+      213: -6304345484204318536
+    second: tileB_farmA_1
+  - first:
+      213: 4075499221305654536
+    second: tileB_farmA_2
+  - first:
+      213: -473439069091127333
+    second: tileB_farmA_3
+  - first:
+      213: -1362015058728747728
+    second: tileB_farmA_4
+  - first:
+      213: -2952563609976164315
+    second: tileB_farmA_5
+  - first:
+      213: 4535541414202082500
+    second: tileB_farmA_6
+  - first:
+      213: 143342396745823172
+    second: tileB_farmA_7
+  - first:
+      213: -3572277829782419862
+    second: tileB_farmA_8
+  - first:
+      213: 3318510028039333997
+    second: tileB_farmA_9
+  - first:
+      213: 5894132218314362253
+    second: tileB_farmA_10
+  - first:
+      213: 2625932497087143310
+    second: tileB_farmA_11
+  - first:
+      213: -671620285584373966
+    second: tileB_farmA_12
+  - first:
+      213: 2185386945513678011
+    second: tileB_farmA_13
+  - first:
+      213: -3426301597777236538
+    second: tileB_farmA_14
+  - first:
+      213: 3067371265457167184
+    second: tileB_farmA_15
+  - first:
+      213: -1960930036754143547
+    second: tileB_farmA_16
+  - first:
+      213: 3465895008310729179
+    second: tileB_farmA_17
+  - first:
+      213: -8688247361242534296
+    second: tileB_farmA_18
+  - first:
+      213: 8732535829485962393
+    second: tileB_farmA_19
+  - first:
+      213: -8183667177415647466
+    second: tileB_farmA_20
+  - first:
+      213: 5506859134827644162
+    second: tileB_farmA_21
+  - first:
+      213: 2085792662961178143
+    second: tileB_farmA_22
+  - first:
+      213: 4565673380007162319
+    second: tileB_farmA_23
+  - first:
+      213: 4642820634839462435
+    second: tileB_farmA_24
+  - first:
+      213: 2331655291794439342
+    second: tileB_farmA_25
+  - first:
+      213: 4808141295722282971
+    second: tileB_farmA_26
+  - first:
+      213: 6783082346467255780
+    second: tileB_farmA_27
+  - first:
+      213: -7288633125103067803
+    second: tileB_farmA_28
+  - first:
+      213: -7341004457932032436
+    second: tileB_farmA_29
+  - first:
+      213: -3411571546355180339
+    second: tileB_farmA_30
+  - first:
+      213: 2540722434362718684
+    second: tileB_farmA_31
+  - first:
+      213: 1486894591424106778
+    second: tileB_farmA_32
+  - first:
+      213: -3716677866210963764
+    second: tileB_farmA_33
+  - first:
+      213: -4344526415653903272
+    second: tileB_farmA_34
+  - first:
+      213: -6502879071763298857
+    second: tileB_farmA_35
+  - first:
+      213: -7999180262083606307
+    second: tileB_farmA_36
+  - first:
+      213: -8388630166408223134
+    second: tileB_farmA_37
+  - first:
+      213: -3618854929384584280
+    second: tileB_farmA_38
+  - first:
+      213: -7369377338085852287
+    second: tileB_farmA_39
+  - first:
+      213: -5705392862641211288
+    second: tileB_farmA_40
+  - first:
+      213: 5807298679093246527
+    second: tileB_farmA_41
+  - first:
+      213: 8024188025748684686
+    second: tileB_farmA_42
+  - first:
+      213: -787010133911222392
+    second: tileB_farmA_43
+  - first:
+      213: -728864280838490393
+    second: tileB_farmA_44
+  - first:
+      213: -4438130150953799643
+    second: tileB_farmA_45
+  - first:
+      213: 6038216675862823182
+    second: tileB_farmA_46
+  - first:
+      213: -6822944993527135661
+    second: tileB_farmA_47
+  - first:
+      213: -7235129339454886543
+    second: tileB_farmA_48
+  - first:
+      213: 612355549930041432
+    second: tileB_farmA_49
+  - first:
+      213: 1473228167528158143
+    second: tileB_farmA_50
+  - first:
+      213: 9051091346474151656
+    second: tileB_farmA_51
+  - first:
+      213: -3397830488733389896
+    second: tileB_farmA_52
+  - first:
+      213: -4506541391834683720
+    second: tileB_farmA_53
+  - first:
+      213: 5507347181327795071
+    second: tileB_farmA_54
+  - first:
+      213: 1393768527178548091
+    second: tileB_farmA_55
+  - first:
+      213: -4922957549129346556
+    second: tileB_farmA_56
+  - first:
+      213: -1471861848046829701
+    second: tileB_farmA_57
+  - first:
+      213: -3342032632336313766
+    second: tileB_farmA_58
+  - first:
+      213: 5480908473684700106
+    second: tileB_farmA_59
+  - first:
+      213: -6853976593936970223
+    second: tileB_farmA_60
+  - first:
+      213: -2585599799048592147
+    second: tileB_farmA_61
+  - first:
+      213: -6587222382048126980
+    second: tileB_farmA_62
+  - first:
+      213: 8043088509350902311
+    second: tileB_farmA_63
+  - first:
+      213: 290761698581813306
+    second: tileB_farmA_64
+  - first:
+      213: 1217347744070223119
+    second: tileB_farmA_65
+  - first:
+      213: -6999479988993796269
+    second: tileB_farmA_66
+  - first:
+      213: -2727127602494876710
+    second: tileB_farmA_67
+  - first:
+      213: 3857085769391720007
+    second: tileB_farmA_68
+  - first:
+      213: 1262323056496907068
+    second: tileB_farmA_69
+  - first:
+      213: 6579755663184424275
+    second: tileB_farmA_70
+  - first:
+      213: 4845674377874617949
+    second: tileB_farmA_71
+  - first:
+      213: -1100643951601714761
+    second: tileB_farmA_72
+  - first:
+      213: 8993511250611950290
+    second: tileB_farmA_73
+  - first:
+      213: 3314724127708310921
+    second: tileB_farmA_74
+  - first:
+      213: 1906161640383220305
+    second: tileB_farmA_75
+  - first:
+      213: 9103580524638634278
+    second: tileB_farmA_76
+  - first:
+      213: -7966093079299894570
+    second: tileB_farmA_77
+  - first:
+      213: 2290610545742767319
+    second: tileB_farmA_78
+  - first:
+      213: 6171266077103560959
+    second: tileB_farmA_79
+  - first:
+      213: -3178580203669083632
+    second: tileB_farmA_80
+  - first:
+      213: 4464642504840713966
+    second: tileB_farmA_81
+  - first:
+      213: 3196618029888643232
+    second: tileB_farmA_82
+  - first:
+      213: -3269300918350043744
+    second: tileB_farmA_83
+  - first:
+      213: 8555083232352369326
+    second: tileB_farmA_84
+  - first:
+      213: -3787047291959941617
+    second: tileB_farmA_85
+  - first:
+      213: -360602381540527835
+    second: tileB_farmA_86
+  - first:
+      213: -4575469446408615591
+    second: tileB_farmA_87
+  - first:
+      213: -119024411504393651
+    second: tileB_farmA_88
+  - first:
+      213: -8375335437044127052
+    second: tileB_farmA_89
+  - first:
+      213: -1772419537419439068
+    second: tileB_farmA_90
+  - first:
+      213: 4428319452669831618
+    second: tileB_farmA_91
+  - first:
+      213: -7038843871484654403
+    second: tileB_farmA_92
+  - first:
+      213: -5398142725650151316
+    second: tileB_farmA_93
+  - first:
+      213: 1400522601984018932
+    second: tileB_farmA_94
+  - first:
+      213: -4256860545342554706
+    second: tileB_farmA_95
+  - first:
+      213: 5054107934241781596
+    second: tileB_farmA_96
+  - first:
+      213: -3514745438273934936
+    second: tileB_farmA_97
+  - first:
+      213: 281459590122866122
+    second: tileB_farmA_98
+  - first:
+      213: 6286192046824266588
+    second: tileB_farmA_99
+  - first:
+      213: -354089343496301197
+    second: tileB_farmA_100
+  - first:
+      213: -5018190308822357185
+    second: tileB_farmA_101
+  - first:
+      213: 3468708135607287732
+    second: tileB_farmA_102
+  - first:
+      213: -2717431491851253258
+    second: tileB_farmA_103
+  - first:
+      213: 6017014787177931412
+    second: tileB_farmA_104
+  - first:
+      213: 1906146571109496857
+    second: tileB_farmA_105
+  - first:
+      213: 1589271648136011987
+    second: tileB_farmA_106
+  - first:
+      213: -9128801554977259553
+    second: tileB_farmA_107
+  - first:
+      213: 6171430663056924313
+    second: tileB_farmA_108
+  - first:
+      213: 626822952507119029
+    second: tileB_farmA_109
+  - first:
+      213: -4443436498270915523
+    second: tileB_farmA_110
+  - first:
+      213: 8639014992018144752
+    second: tileB_farmA_111
+  - first:
+      213: -8676157629272261666
+    second: tileB_farmA_112
+  - first:
+      213: -5281711990890447821
+    second: tileB_farmA_113
+  - first:
+      213: -5640362796757829281
+    second: tileB_farmA_114
+  - first:
+      213: 6180223578727672978
+    second: tileB_farmA_115
+  - first:
+      213: 5685996534496850992
+    second: tileB_farmA_116
+  - first:
+      213: -7178429340862138607
+    second: tileB_farmA_117
+  - first:
+      213: -1614654382239620023
+    second: tileB_farmA_118
+  - first:
+      213: 3225392381602442377
+    second: tileB_farmA_119
+  - first:
+      213: -7468936824577172167
+    second: tileB_farmA_120
+  - first:
+      213: 3719972793539064798
+    second: tileB_farmA_121
+  - first:
+      213: -5806150063507389024
+    second: tileB_farmA_122
+  - first:
+      213: -4205792097330515979
+    second: tileB_farmA_123
+  - first:
+      213: 7038691631306133664
+    second: tileB_farmA_124
+  - first:
+      213: 51260200473223466
+    second: tileB_farmA_125
+  - first:
+      213: -3384289918857848549
+    second: tileB_farmA_126
+  - first:
+      213: 3540995796848978540
+    second: tileB_farmA_127
+  - first:
+      213: 6488506616434818001
+    second: tileB_farmA_128
+  - first:
+      213: 2493607669015222020
+    second: tileB_farmA_129
+  - first:
+      213: -8761497792955764940
+    second: tileB_farmA_130
+  - first:
+      213: -102893084675593600
+    second: tileB_farmA_131
+  - first:
+      213: 5137580446092473644
+    second: tileB_farmA_132
+  - first:
+      213: 9060320972857447475
+    second: tileB_farmA_133
+  - first:
+      213: 5679134295592493645
+    second: tileB_farmA_134
+  - first:
+      213: -6179329571297126742
+    second: tileB_farmA_135
+  - first:
+      213: -7203224567132684107
+    second: tileB_farmA_136
+  - first:
+      213: 1212361730557915852
+    second: tileB_farmA_137
+  - first:
+      213: -6149612779010156807
+    second: tileB_farmA_138
+  - first:
+      213: 5443063644831181600
+    second: tileB_farmA_139
+  - first:
+      213: 429953509601621712
+    second: tileB_farmA_140
+  - first:
+      213: 136842834535554287
+    second: tileB_farmA_141
+  - first:
+      213: 7944476671519135989
+    second: tileB_farmA_142
+  - first:
+      213: 811467776422539695
+    second: tileB_farmA_143
+  - first:
+      213: 4359649853848339250
+    second: tileB_farmA_144
+  - first:
+      213: 2634766512749318094
+    second: tileB_farmA_145
+  - first:
+      213: -2988415510901873043
+    second: tileB_farmA_146
+  - first:
+      213: -4723401458941436843
+    second: tileB_farmA_147
+  - first:
+      213: -4281786147003970786
+    second: tileB_farmA_148
+  - first:
+      213: -3309643103844003113
+    second: tileB_farmA_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileB_farmA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 384
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fe7b899fdbcfbe0800000000000000
+      internalID: -1442068900958703718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 723
+        width: 165
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e9a81f277288a0800000000000000
+      internalID: -6304345484204318536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 726
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dfd48e2f41f8830800000000000000
+      internalID: 4075499221305654536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 723
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf1800dca10e69f0800000000000000
+      internalID: -473439069091127333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 723
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d7db53586291de0800000000000000
+      internalID: -1362015058728747728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 723
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52030a24a036607d0800000000000000
+      internalID: -2952563609976164315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 723
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c48699c2ea71fe30800000000000000
+      internalID: 4535541414202082500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 723
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3b94f76214df100800000000000000
+      internalID: 143342396745823172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 723
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66c0d49d38bc6ec0800000000000000
+      internalID: -3572277829782419862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_9
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 720
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682bdcc947bd0e20800000000000000
+      internalID: 3318510028039333997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 681
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d00db260a2cc150800000000000000
+      internalID: 5894132218314362253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 681
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d980d71bf217420800000000000000
+      internalID: 2625932497087143310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 681
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2370ccd98eceda6f0800000000000000
+      internalID: -671620285584373966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_13
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 681
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb46e1829dd045e10800000000000000
+      internalID: 2185386945513678011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 687
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd6223a9d45370d0800000000000000
+      internalID: -3426301597777236538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 681
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b90df0aed719a20800000000000000
+      internalID: 3067371265457167184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_16
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 678
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c620e1658069c4e0800000000000000
+      internalID: -1960930036754143547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_17
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 672
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9192f9525591030800000000000000
+      internalID: 3465895008310729179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 627
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ee968ae052d6780800000000000000
+      internalID: -8688247361242534296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 627
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994c1e8e113303970800000000000000
+      internalID: 8732535829485962393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 627
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fdd12af06cd6e80800000000000000
+      internalID: -8183667177415647466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_21
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 627
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205448fd43b4c6c40800000000000000
+      internalID: 5506859134827644162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_22
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 630
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16caee306932fc10800000000000000
+      internalID: 2085792662961178143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_23
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 630
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1b8c7cfb78c5f30800000000000000
+      internalID: 4565673380007162319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_24
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 630
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b577c4cc9e6040800000000000000
+      internalID: 4642820634839462435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 627
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac311e5224bb5020800000000000000
+      internalID: 2331655291794439342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 579
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfb969a803f9b240800000000000000
+      internalID: 4808141295722282971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 579
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5676fa479522e50800000000000000
+      internalID: 6783082346467255780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_28
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 579
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d16102ac299da90800000000000000
+      internalID: -7288633125103067803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 579
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46f66ef6538f1a90800000000000000
+      internalID: -7341004457932032436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_30
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 579
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc5badf0c9a7a0d0800000000000000
+      internalID: -3411571546355180339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 579
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd93e0db795724320800000000000000
+      internalID: 2540722434362718684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_32
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 579
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a119844c0c282a410800000000000000
+      internalID: 1486894591424106778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 579
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce40f72c25bb6cc0800000000000000
+      internalID: -3716677866210963764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 531
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e5a54e3425b3c0800000000000000
+      internalID: -4344526415653903272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 531
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d50a3e10f121c5a0800000000000000
+      internalID: -6502879071763298857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 531
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c030eee33df090800000000000000
+      internalID: -7999180262083606307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_37
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 528
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266ac1bfe49959b80800000000000000
+      internalID: -8388630166408223134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_38
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 537
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab4c508d9e37cdc0800000000000000
+      internalID: -3618854929384584280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 537
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b349b0b56bab990800000000000000
+      internalID: -7369377338085852287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 534
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b83e7b6f52d0b0800000000000000
+      internalID: -5705392862641211288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 531
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab2f7516ba79050800000000000000
+      internalID: 5807298679093246527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 489
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f71b5de74ab5f60800000000000000
+      internalID: 8024188025748684686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_43
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 489
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887c695f37af315f0800000000000000
+      internalID: -787010133911222392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 483
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b62b5ccd82e5f0800000000000000
+      internalID: -728864280838490393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_45
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 483
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520b27554289862c0800000000000000
+      internalID: -4438130150953799643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 489
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01c4a9231e0cc350800000000000000
+      internalID: 6038216675862823182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_47
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 489
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35209ca8da70051a0800000000000000
+      internalID: -6822944993527135661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_48
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 489
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17de8c9f238a79b90800000000000000
+      internalID: -7235129339454886543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_49
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 483
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850b1d5d0268f7800800000000000000
+      internalID: 612355549930041432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 444
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb39d9e7635f17410800000000000000
+      internalID: 1473228167528158143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 438
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2438ff9feb9d70800000000000000
+      internalID: 9051091346474151656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 444
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbed084c2b78d0d0800000000000000
+      internalID: -3397830488733389896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 441
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b669161b7c8571c0800000000000000
+      internalID: -4506541391834683720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 438
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73cacd05170e6c40800000000000000
+      internalID: 5507347181327795071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_55
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 438
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73c8994719a75310800000000000000
+      internalID: 1393768527178548091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_56
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 441
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40251d721342eabb0800000000000000
+      internalID: -4922957549129346556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 435
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ff7bc8275e29be0800000000000000
+      internalID: -1471861848046829701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_58
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 390
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5294d91707be91d0800000000000000
+      internalID: -3342032632336313766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_59
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 387
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acba76cb739101c40800000000000000
+      internalID: 5480908473684700106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_60
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 384
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e8b8b0a98c1e0a0800000000000000
+      internalID: -6853976593936970223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 390
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4236e8eaa1e1cd0800000000000000
+      internalID: -2585599799048592147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 387
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7d485e42c7594a0800000000000000
+      internalID: -6587222382048126980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 387
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af2e8926ace9f60800000000000000
+      internalID: 8043088509350902311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 399
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38124e693ef80400800000000000000
+      internalID: 290761698581813306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 396
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05cd6dc253e4e010800000000000000
+      internalID: 1217347744070223119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_66
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 399
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d19be80adcde90800000000000000
+      internalID: -6999479988993796269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_67
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 387
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3512cf4eb472ad0800000000000000
+      internalID: -2727127602494876710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 393
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746cec0521f178530800000000000000
+      internalID: 3857085769391720007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_69
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 393
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33984eb12ca48110800000000000000
+      internalID: 1262323056496907068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_70
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 393
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35de8f42aecff4b50800000000000000
+      internalID: 6579755663184424275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 342
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56bd665c2b4f3340800000000000000
+      internalID: 4845674377874617949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 360
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9f890582ab9b0f0800000000000000
+      internalID: -1100643951601714761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 345
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2543035de5fcc70800000000000000
+      internalID: 8993511250611950290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_74
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 306
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d68703804400e20800000000000000
+      internalID: 3314724127708310921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 294
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a8483a9eb047a10800000000000000
+      internalID: 1906161640383220305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_76
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 294
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621004b114a665e70800000000000000
+      internalID: 9103580524638634278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_77
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 291
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2d1a0fc80c27190800000000000000
+      internalID: -7966093079299894570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 291
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4e2c9b722e9cf10800000000000000
+      internalID: 2290610545742767319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 342
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff81d24eccdb4a550800000000000000
+      internalID: 6171266077103560959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 297
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a2736452a63e3d0800000000000000
+      internalID: -3178580203669083632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6142614b895fd30800000000000000
+      internalID: 4464642504840713966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 309
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a02f1a692bac5c20800000000000000
+      internalID: 3196618029888643232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_83
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a523e1e22c11a2d0800000000000000
+      internalID: -3269300918350043744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 294
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa73408fd2c9b670800000000000000
+      internalID: 8555083232352369326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_85
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 300
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f066f177d84b17bc0800000000000000
+      internalID: -3787047291959941617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_86
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 297
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521fd176b02eefaf0800000000000000
+      internalID: -360602381540527835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 300
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9594926c7caa080c0800000000000000
+      internalID: -4575469446408615591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 294
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d424ea8ade3295ef0800000000000000
+      internalID: -119024411504393651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 204
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba6e306bc4d4cb80800000000000000
+      internalID: -8375335437044127052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_90
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 252
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424f62742d91767e0800000000000000
+      internalID: -1772419537419439068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_91
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 267
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c96658741d847d30800000000000000
+      internalID: 4428319452669831618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 201
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc8b2dac0015e90800000000000000
+      internalID: -7038843871484654403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 201
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6883c6aac1f515b0800000000000000
+      internalID: -5398142725650151316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_94
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 201
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9c92fd2e7af6310800000000000000
+      internalID: 1400522601984018932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_95
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 198
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead3b7843e79ce4c0800000000000000
+      internalID: -4256860545342554706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_96
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 198
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f6fc636cc32640800000000000000
+      internalID: 5054107934241781596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_97
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 195
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e1c355ad193fc0800000000000000
+      internalID: -3514745438273934936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_98
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 201
+        width: 105
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac586e78102f7e300800000000000000
+      internalID: 281459590122866122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 201
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b98d46c5a0d3750800000000000000
+      internalID: 6286192046824266588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_100
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 201
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375d62e3e95061bf0800000000000000
+      internalID: -354089343496301197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 201
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3be55b608ecb5ab0800000000000000
+      internalID: -5018190308822357185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf316cdba3532030800000000000000
+      internalID: 3468708135607287732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 153
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f90fbaa47eb94ad0800000000000000
+      internalID: -2717431491851253258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_104
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4926306c11bb08350800000000000000
+      internalID: 6017014787177931412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_105
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 150
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187fcc053ef37a10800000000000000
+      internalID: 1906146571109496857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 117
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02fb6c42a3e0610800000000000000
+      internalID: 1589271648136011987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_107
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 129
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdffb8a2a5bff4180800000000000000
+      internalID: -9128801554977259553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_108
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 102
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e167b8d7355a550800000000000000
+      internalID: 6171430663056924313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_109
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 159
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b59f3d772ce2b800800000000000000
+      internalID: 626822952507119029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_110
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 153
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d347e821c0eb552c0800000000000000
+      internalID: -4443436498270915523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_111
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 150
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdf3802d52f3e770800000000000000
+      internalID: 8639014992018144752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_112
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 153
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb7eebba98189780800000000000000
+      internalID: -8676157629272261666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_113
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 156
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cbd019de693b6b0800000000000000
+      internalID: -5281711990890447821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_114
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 159
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59bbe69be769b1b0800000000000000
+      internalID: -5640362796757829281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_115
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 153
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c6e82c99094c550800000000000000
+      internalID: 6180223578727672978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_116
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 156
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03479c0f8b7b8ee40800000000000000
+      internalID: 5685996534496850992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_117
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117bba42c88116c90800000000000000
+      internalID: -7178429340862138607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_118
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 102
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9446497e4689799e0800000000000000
+      internalID: -1614654382239620023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_119
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 102
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c2aae3845e2cc20800000000000000
+      internalID: 3225392381602442377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 99
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d5e39b781095890800000000000000
+      internalID: -7468936824577172167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_121
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed37305eb8fff9330800000000000000
+      internalID: 3719972793539064798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_122
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 105
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5c70097496c6fa0800000000000000
+      internalID: -5806150063507389024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_123
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 99
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff2877ee5602a5c0800000000000000
+      internalID: -4205792097330515979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_124
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 102
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0548ffeb47ea160800000000000000
+      internalID: 7038691631306133664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_125
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 108
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21625871ec16b000800000000000000
+      internalID: 51260200473223466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_126
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 117
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19da81ef369801d0800000000000000
+      internalID: -3384289918857848549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_127
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 108
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aa55e8ae4242130800000000000000
+      internalID: 3540995796848978540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_128
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 111
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db7e5bd36ecb0a50800000000000000
+      internalID: 6488506616434818001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_129
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 105
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40797d896f21b9220800000000000000
+      internalID: 2493607669015222020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_130
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 108
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fa08e7d28e86680800000000000000
+      internalID: -8761497792955764940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_131
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a211ed843729ef0800000000000000
+      internalID: -102893084675593600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 234
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25b556123a5c4740800000000000000
+      internalID: 5137580446092473644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_133
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3349032dbe9bcbd70800000000000000
+      internalID: 9060320972857447475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_134
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 54
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4267807d8650de40800000000000000
+      internalID: 5679134295592493645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_135
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 57
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa694c09e7c9e3aa0800000000000000
+      internalID: -6179329571297126742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_136
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 66
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b080b6ab61090c90800000000000000
+      internalID: -7203224567132684107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_137
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 57
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2be21129c23d010800000000000000
+      internalID: 1212361730557915852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_138
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 60
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f695e072cf28aaa0800000000000000
+      internalID: -6149612779010156807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_139
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 63
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b6100eb85a98b40800000000000000
+      internalID: 5443063644831181600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_140
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 57
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6bcb1607087f500800000000000000
+      internalID: 429953509601621712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_141
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 60
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec9c8e35d926e100800000000000000
+      internalID: 136842834535554287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_142
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 6
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8964ce073704e60800000000000000
+      internalID: 7944476671519135989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_143
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 6
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17750b4a9e24b00800000000000000
+      internalID: 811467776422539695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_144
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 15
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233c6b39176908c30800000000000000
+      internalID: 4359649853848339250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_145
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 15
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf848a0f22909420800000000000000
+      internalID: 2634766512749318094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_146
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 12
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d662d671de30786d0800000000000000
+      internalID: -2988415510901873043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_147
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 15
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cdb34166b137eb0800000000000000
+      internalID: -4723401458941436843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_148
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 9
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bc3a76f2a0494c0800000000000000
+      internalID: -4281786147003970786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileB_farmA_149
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 12
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d29e0ed129c112d0800000000000000
+      internalID: -3309643103844003113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ae2330b5f4dc9d249ad9961a71233924
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tileB_farmA_0: -1442068900958703718
+      tileB_farmA_1: -6304345484204318536
+      tileB_farmA_10: 5894132218314362253
+      tileB_farmA_100: -354089343496301197
+      tileB_farmA_101: -5018190308822357185
+      tileB_farmA_102: 3468708135607287732
+      tileB_farmA_103: -2717431491851253258
+      tileB_farmA_104: 6017014787177931412
+      tileB_farmA_105: 1906146571109496857
+      tileB_farmA_106: 1589271648136011987
+      tileB_farmA_107: -9128801554977259553
+      tileB_farmA_108: 6171430663056924313
+      tileB_farmA_109: 626822952507119029
+      tileB_farmA_11: 2625932497087143310
+      tileB_farmA_110: -4443436498270915523
+      tileB_farmA_111: 8639014992018144752
+      tileB_farmA_112: -8676157629272261666
+      tileB_farmA_113: -5281711990890447821
+      tileB_farmA_114: -5640362796757829281
+      tileB_farmA_115: 6180223578727672978
+      tileB_farmA_116: 5685996534496850992
+      tileB_farmA_117: -7178429340862138607
+      tileB_farmA_118: -1614654382239620023
+      tileB_farmA_119: 3225392381602442377
+      tileB_farmA_12: -671620285584373966
+      tileB_farmA_120: -7468936824577172167
+      tileB_farmA_121: 3719972793539064798
+      tileB_farmA_122: -5806150063507389024
+      tileB_farmA_123: -4205792097330515979
+      tileB_farmA_124: 7038691631306133664
+      tileB_farmA_125: 51260200473223466
+      tileB_farmA_126: -3384289918857848549
+      tileB_farmA_127: 3540995796848978540
+      tileB_farmA_128: 6488506616434818001
+      tileB_farmA_129: 2493607669015222020
+      tileB_farmA_13: 2185386945513678011
+      tileB_farmA_130: -8761497792955764940
+      tileB_farmA_131: -102893084675593600
+      tileB_farmA_132: 5137580446092473644
+      tileB_farmA_133: 9060320972857447475
+      tileB_farmA_134: 5679134295592493645
+      tileB_farmA_135: -6179329571297126742
+      tileB_farmA_136: -7203224567132684107
+      tileB_farmA_137: 1212361730557915852
+      tileB_farmA_138: -6149612779010156807
+      tileB_farmA_139: 5443063644831181600
+      tileB_farmA_14: -3426301597777236538
+      tileB_farmA_140: 429953509601621712
+      tileB_farmA_141: 136842834535554287
+      tileB_farmA_142: 7944476671519135989
+      tileB_farmA_143: 811467776422539695
+      tileB_farmA_144: 4359649853848339250
+      tileB_farmA_145: 2634766512749318094
+      tileB_farmA_146: -2988415510901873043
+      tileB_farmA_147: -4723401458941436843
+      tileB_farmA_148: -4281786147003970786
+      tileB_farmA_149: -3309643103844003113
+      tileB_farmA_15: 3067371265457167184
+      tileB_farmA_16: -1960930036754143547
+      tileB_farmA_17: 3465895008310729179
+      tileB_farmA_18: -8688247361242534296
+      tileB_farmA_19: 8732535829485962393
+      tileB_farmA_2: 4075499221305654536
+      tileB_farmA_20: -8183667177415647466
+      tileB_farmA_21: 5506859134827644162
+      tileB_farmA_22: 2085792662961178143
+      tileB_farmA_23: 4565673380007162319
+      tileB_farmA_24: 4642820634839462435
+      tileB_farmA_25: 2331655291794439342
+      tileB_farmA_26: 4808141295722282971
+      tileB_farmA_27: 6783082346467255780
+      tileB_farmA_28: -7288633125103067803
+      tileB_farmA_29: -7341004457932032436
+      tileB_farmA_3: -473439069091127333
+      tileB_farmA_30: -3411571546355180339
+      tileB_farmA_31: 2540722434362718684
+      tileB_farmA_32: 1486894591424106778
+      tileB_farmA_33: -3716677866210963764
+      tileB_farmA_34: -4344526415653903272
+      tileB_farmA_35: -6502879071763298857
+      tileB_farmA_36: -7999180262083606307
+      tileB_farmA_37: -8388630166408223134
+      tileB_farmA_38: -3618854929384584280
+      tileB_farmA_39: -7369377338085852287
+      tileB_farmA_4: -1362015058728747728
+      tileB_farmA_40: -5705392862641211288
+      tileB_farmA_41: 5807298679093246527
+      tileB_farmA_42: 8024188025748684686
+      tileB_farmA_43: -787010133911222392
+      tileB_farmA_44: -728864280838490393
+      tileB_farmA_45: -4438130150953799643
+      tileB_farmA_46: 6038216675862823182
+      tileB_farmA_47: -6822944993527135661
+      tileB_farmA_48: -7235129339454886543
+      tileB_farmA_49: 612355549930041432
+      tileB_farmA_5: -2952563609976164315
+      tileB_farmA_50: 1473228167528158143
+      tileB_farmA_51: 9051091346474151656
+      tileB_farmA_52: -3397830488733389896
+      tileB_farmA_53: -4506541391834683720
+      tileB_farmA_54: 5507347181327795071
+      tileB_farmA_55: 1393768527178548091
+      tileB_farmA_56: -4922957549129346556
+      tileB_farmA_57: -1471861848046829701
+      tileB_farmA_58: -3342032632336313766
+      tileB_farmA_59: 5480908473684700106
+      tileB_farmA_6: 4535541414202082500
+      tileB_farmA_60: -6853976593936970223
+      tileB_farmA_61: -2585599799048592147
+      tileB_farmA_62: -6587222382048126980
+      tileB_farmA_63: 8043088509350902311
+      tileB_farmA_64: 290761698581813306
+      tileB_farmA_65: 1217347744070223119
+      tileB_farmA_66: -6999479988993796269
+      tileB_farmA_67: -2727127602494876710
+      tileB_farmA_68: 3857085769391720007
+      tileB_farmA_69: 1262323056496907068
+      tileB_farmA_7: 143342396745823172
+      tileB_farmA_70: 6579755663184424275
+      tileB_farmA_71: 4845674377874617949
+      tileB_farmA_72: -1100643951601714761
+      tileB_farmA_73: 8993511250611950290
+      tileB_farmA_74: 3314724127708310921
+      tileB_farmA_75: 1906161640383220305
+      tileB_farmA_76: 9103580524638634278
+      tileB_farmA_77: -7966093079299894570
+      tileB_farmA_78: 2290610545742767319
+      tileB_farmA_79: 6171266077103560959
+      tileB_farmA_8: -3572277829782419862
+      tileB_farmA_80: -3178580203669083632
+      tileB_farmA_81: 4464642504840713966
+      tileB_farmA_82: 3196618029888643232
+      tileB_farmA_83: -3269300918350043744
+      tileB_farmA_84: 8555083232352369326
+      tileB_farmA_85: -3787047291959941617
+      tileB_farmA_86: -360602381540527835
+      tileB_farmA_87: -4575469446408615591
+      tileB_farmA_88: -119024411504393651
+      tileB_farmA_89: -8375335437044127052
+      tileB_farmA_9: 3318510028039333997
+      tileB_farmA_90: -1772419537419439068
+      tileB_farmA_91: 4428319452669831618
+      tileB_farmA_92: -7038843871484654403
+      tileB_farmA_93: -5398142725650151316
+      tileB_farmA_94: 1400522601984018932
+      tileB_farmA_95: -4256860545342554706
+      tileB_farmA_96: 5054107934241781596
+      tileB_farmA_97: -3514745438273934936
+      tileB_farmA_98: 281459590122866122
+      tileB_farmA_99: 6286192046824266588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
