@@ -40,7 +40,7 @@ namespace Assets.Scripts.Resource
 				{
 					Vector2 randomPosition = Random.insideUnitCircle * dropDistance;
 					GameObject GO = Instantiate(resource.prefab, transform.position + (Vector3)randomPosition, Quaternion.identity);
-					GO.GetComponent<Item>().itemWorth = resource.worth;
+					GO.GetComponent<Item>().SetItemWorth(resource.worth);
 				}
 			}
 		}

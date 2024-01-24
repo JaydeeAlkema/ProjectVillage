@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 580139405635175308}
   - component: {fileID: 2863580562221135413}
-  - component: {fileID: 5094470033677055267}
+  - component: {fileID: 4354943562274056639}
   m_Layer: 6
   m_Name: Resource - Stone 1
   m_TagString: Untagged
@@ -51,8 +51,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f450bc84861d5e648952b347084c1b1f, type: 2}
   specialResourceConfigs: []
   dropDistance: 2
---- !u!61 &5094470033677055267
-BoxCollider2D:
+--- !u!58 &4354943562274056639
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -86,17 +86,7 @@ BoxCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
+  m_Radius: 0.25
 --- !u!1 &6603611326465781276
 GameObject:
   m_ObjectHideFlags: 0

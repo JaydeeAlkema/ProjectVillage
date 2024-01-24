@@ -12,7 +12,7 @@ namespace Assets.Scripts.Inventory
 		{
 			foreach (KeyValuePair<Item, int> inventoryItem in inventory)
 			{
-				if (inventoryItem.Key.itemName.ToLower().Contains(item.itemName.ToLower()))
+				if (inventoryItem.Key.GetItemName().ToLower().Contains(item.GetItemName().ToLower()))
 				{
 					inventory[inventoryItem.Key]++;
 					return;
@@ -62,7 +62,7 @@ namespace Assets.Scripts.Inventory
 			int total = 0;
 			foreach (KeyValuePair<Item, int> item in inventory)
 			{
-				total += item.Key.itemWorth * item.Value;
+				total += item.Key.GetItemWorth() * item.Value;
 			}
 			return total;
 		}
@@ -72,7 +72,7 @@ namespace Assets.Scripts.Inventory
 		{
 			foreach (KeyValuePair<Item, int> item in inventory)
 			{
-				Debug.Log($"{item.Key.itemName} x{item.Value}");
+				Debug.Log($"{item.Key.GetItemName()} x{item.Value}");
 			}
 		}
 
