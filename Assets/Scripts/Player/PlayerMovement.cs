@@ -1,7 +1,6 @@
 using Assets.Scripts.GenericScriptables;
 using NaughtyAttributes;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 namespace Assets.Scripts.Player
 {
@@ -18,30 +17,26 @@ namespace Assets.Scripts.Player
 			controls = new Controls();
 
 			controls.Player.Enable();
+		}
 
-			controls.Player.Move.performed += Move;
-			controls.Player.Move.canceled += Move;
+		private void Update()
+		{
+			Move();
 		}
 
 		private void OnDestroy()
 		{
-			controls.Player.Move.performed -= Move;
-			controls.Player.Move.canceled -= Move;
-
 			controls.Player.Disable();
 		}
 
 		private void OnDisable()
 		{
-			controls.Player.Move.performed -= Move;
-			controls.Player.Move.canceled -= Move;
-
 			controls.Player.Disable();
 		}
 
-		private void Move(InputAction.CallbackContext callbackContext)
+		private void Move()
 		{
-			Vector2 input = callbackContext.ReadValue<Vector2>();
+			Vector2 input = controls.Player.Move.ReadValue<Vector2>();
 
 			if (input == Vector2.zero)
 			{
