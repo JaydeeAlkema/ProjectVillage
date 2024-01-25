@@ -1732,6 +1732,153 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Interactable_PotatoPlant_Stage1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b931127a98cd1214083a258f77101a8e
+      internalID: 1450567601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '!CL_DEMO_48x48_2'
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c71fdae42f2e4cad65457d6601745
+      internalID: -2002134810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interactable_PotatoPlant_Stage2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe6a0079aae7d428096a70b6e86cf2
+      internalID: 1597566522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interactable_PotatoPlant_Stage3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500901511e298f4a898ed01352984eb
+      internalID: -1458588217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interactable_PotatoPlant_Stage4
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 874
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62dac38a7ad0c0408feda80958c4710
+      internalID: 1152009092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interactable_PotatoPlant_Stage5
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 872
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076493d60cb3fa34e9637f137a42dbe1
+      internalID: 352027377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Potato
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 865
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690010125c95fbd498c33a41d9c71e2b
+      internalID: 530307587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1743,7 +1890,6 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      '!CL_DEMO_48x48_0': -1084065109
       '!CL_DEMO_48x48_1': -2117999142
       '!CL_DEMO_48x48_10': -480521303935289245
       '!CL_DEMO_48x48_102': -2277559536040469865
@@ -1772,14 +1918,12 @@ TextureImporter:
       '!CL_DEMO_48x48_25': 80421912902394166
       '!CL_DEMO_48x48_26': 7450912924941449484
       '!CL_DEMO_48x48_29': -7287000830115501300
-      '!CL_DEMO_48x48_3': 1531698577
       '!CL_DEMO_48x48_30': 8634607185420799747
       '!CL_DEMO_48x48_31': -842633881423458836
       '!CL_DEMO_48x48_32': 1868116169518999690
       '!CL_DEMO_48x48_33': 6030871652658309334
       '!CL_DEMO_48x48_38': -7771204842694075652
       '!CL_DEMO_48x48_39': 4586740188162214185
-      '!CL_DEMO_48x48_4': 91501903
       '!CL_DEMO_48x48_42': -8625266280796216914
       '!CL_DEMO_48x48_43': 1069549618162705006
       '!CL_DEMO_48x48_44': 4007978135827367903
@@ -1788,7 +1932,6 @@ TextureImporter:
       '!CL_DEMO_48x48_47': 4853166642346872382
       '!CL_DEMO_48x48_48': 7208933247217280682
       '!CL_DEMO_48x48_49': -318320011542862733
-      '!CL_DEMO_48x48_5': 772087075
       '!CL_DEMO_48x48_50': -7789968276282027294
       '!CL_DEMO_48x48_52': 4380114236828570739
       '!CL_DEMO_48x48_53': -1384645570599295709
@@ -1797,7 +1940,6 @@ TextureImporter:
       '!CL_DEMO_48x48_57': 5534955058730592574
       '!CL_DEMO_48x48_58': 5700478194405590236
       '!CL_DEMO_48x48_59': -8291491663058522462
-      '!CL_DEMO_48x48_6': 3151330133480409253
       '!CL_DEMO_48x48_60': -7504966449329189732
       '!CL_DEMO_48x48_61': 2502590530076710511
       '!CL_DEMO_48x48_62': -2712485941014412187
@@ -1807,7 +1949,6 @@ TextureImporter:
       '!CL_DEMO_48x48_66': 2684598272486367424
       '!CL_DEMO_48x48_67': -1782765726118387110
       '!CL_DEMO_48x48_68': -773605929732608082
-      '!CL_DEMO_48x48_7': 4875419129598706315
       '!CL_DEMO_48x48_70': 9220164838376242661
       '!CL_DEMO_48x48_71': -5290433206368201108
       '!CL_DEMO_48x48_72': -3746633949356424983
@@ -1882,9 +2023,15 @@ TextureImporter:
       Interactable_Grass4: -2076994086
       Interactable_Grass5: 141478606
       Interactable_Log: -138020619
+      Interactable_PotatoPlant_Stage1: -1084065109
+      Interactable_PotatoPlant_Stage2: 1531698577
+      Interactable_PotatoPlant_Stage3: 91501903
+      Interactable_PotatoPlant_Stage4: 772087075
+      Interactable_PotatoPlant_Stage5: 3151330133480409253
       Interactable_Stone1: 1634440375
       Interactable_Stone2: 1622895922
       Item_Iron: -539253396
+      Item_Potato: 4875419129598706315
       Item_Stone: 1293889612
       Item_Wood: -2060772769
       OutsideStairs: -618813920
